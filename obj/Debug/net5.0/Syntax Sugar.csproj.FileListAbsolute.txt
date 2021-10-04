@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\Syntax Sugar.exe
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\Syntax Sugar.deps.json
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\Syntax Sugar.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\Syntax Sugar.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\Syntax Sugar.dll
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\ref\Syntax Sugar.dll
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\bin\Debug\net5.0\Syntax Sugar.pdb
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.dll
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\ref\Syntax Sugar.dll
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.pdb
+C:\Users\gsida\Desktop\Repo\Syntax Sugar\obj\Debug\net5.0\Syntax Sugar.genruntimeconfig.cache
